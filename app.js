@@ -1,3 +1,9 @@
+/* 
+Question 1:
+Write a function called deepClone which takes an object and creates a copy of it. e.g. {name: "Paddy", address: {town: "Lerum", country: "Sweden"}} -> {name: "Paddy", address: {town: "Lerum", country: "Sweden"}}
+*/
+
+
 
 /**
  * Using ES6
